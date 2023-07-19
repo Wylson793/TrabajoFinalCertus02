@@ -1,0 +1,86 @@
+﻿[
+    {
+        "sku": "EP32165ULPE",
+        "name": "Cocina Basica",
+        "price": "599",
+        "offer": "0.20",
+        "image": "cocina1.JPG"
+    },
+    {
+        "sku": "DQ65688SDAQ",
+        "name": "Cocina Parrillera",
+        "price": "670",
+        "offer": "0.15",
+        "image": "cocina2.JPG"
+    },
+    {
+        "sku": "HG32154WERT",
+        "name": "Ducha Basica",
+        "price": "250",
+        "offer": "0.35",
+        "image": "ducha1.JPG"
+    },
+    {
+        "sku": "NH65421MYUJ",
+        "name": "Ducha Reguladora",
+        "price": "200",
+        "offer": "0.18",
+        "image": "ducha2.JPG"
+    },
+    {
+        "sku": "VC13845BRTG",
+        "name": "Horno rapido",
+        "price": "650",
+        "offer": "0.25",
+        "image": "horno1.JPG"
+    },
+    {
+        "sku": "DF85741HNGB",
+        "name": "Horno Panadero",
+        "price": "380",
+        "offer": "0.40",
+        "image": "horno2.JPG"
+    },
+    {
+        "sku": "HN18474SDVV",
+        "name": "Lavadora Basica",
+        "price": "1050",
+        "offer": "0.10",
+        "image": "lavadora1.JPG"
+    },
+    {
+        "sku": "TH12985SDFG",
+        "name": "Lavadora comercial",
+        "price": "1200",
+        "offer": "0.20",
+        "image": "lavadora2.JPG"
+    },
+    {
+        "sku": "GR84512FDSW",
+        "name": "Refrigeradora Familiar",
+        "price": "1499",
+        "offer": "0.45",
+        "image": "refri1.JPG"
+    },
+    {
+        "sku": "BB98841HTRG",
+        "name": "Refrigeradora Standar",
+        "price": "1870",
+        "offer": "0.30",
+        "image": "refri2.JPG"
+    },
+    {
+        "sku": "FR66874WEFG",
+        "name": "Secadora Basica",
+        "price": "180",
+        "offer": "0.50",
+        "image": "secadora1.JPG"
+    },
+    {
+        "sku": "WE88112HTJM",
+        "name": "Secadora Multi",
+        "price": "220",
+        "offer": "0.25",
+        "image": "secadora2.JPG"
+    }
+]
